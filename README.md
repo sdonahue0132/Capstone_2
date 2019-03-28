@@ -1,4 +1,4 @@
-#Classifying Hate Speech on Twitter using NLP and Stacked ML
+# Classifying Hate Speech on Twitter using NLP and Stacked ML
 
 The goal of this project is to develop a classifer capable of serving as a Hate Speech filter for a social media company.  The idea for this project can be found in the "Initial Proposal" document in the Reports folder.
 
